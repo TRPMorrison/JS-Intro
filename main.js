@@ -4,41 +4,42 @@ var givenName;
 
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
-// A: "Tim"
+// A: "Tim" console.log("Tim");
 
 givenName = "JD";
 // Q: What is `givenName` set to right now?
-// A: "JD"
+// A: "JD" console.log("JD");
 
 
 var greeting = "Hello, how are you?";
 // Q: What is `greeting` set to?
-// A: greeting is undefined
+// A: "Hello, how are you?"  console.log(greeting);
 
 
-var high = 50;
-var low  = 10;
+var high = 50; //console.log(high);
+var low  = 10; //console.log(low);
 
 
 var math = high - low;
 // Q: What is `math` set to?
-// A: 40
+// A: 40 console.log(math);
 
 
 math = high - "5";
 // Q: What is `math` set to?
-// A: 45
+// A: 45 console.log(math);
 
 
 // Create a variable to calculate Tim's age
 // The answer should read "Tim is 31 years old"
 var born = 1983;
 var today = 2015;
-//  A: var a = 'Tim is ';
-//     var b = (today - born);
-//     var c = '-1';
-//     var d = ' years old';
-//     a + (b + c) + d
+ // A: console.log(born); console.log(today);
+ // var a = 'Tim is ';
+    // var b = (today - born);
+    // var c = -1;
+    // var d = ' years old';
+//  var answer = a + (b + c) + d
 
 
 // Store some information following in variables.
