@@ -4,16 +4,16 @@ var givenName;
 
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
-// A: "Tim" console.log("Tim");
+// A: "Tim" console.log(givenName);
 
 givenName = "JD";
 // Q: What is `givenName` set to right now?
-// A: "JD" console.log("JD");
+// A: "JD" console.log(givenName);
 
 
 var greeting = "Hello, how are you?";
 // Q: What is `greeting` set to?
-// A: "Hello, how are you?"  console.log(greeting);
+// A: "Hello, how are you?" console.log(greeting);
 
 
 var high = 50; //console.log(high);
